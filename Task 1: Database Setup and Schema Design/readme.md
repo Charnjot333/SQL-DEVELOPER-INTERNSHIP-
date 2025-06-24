@@ -24,7 +24,7 @@ The ER diagram below shows the one-to-many relationship between `Customers` and 
 ## 🗃️ ER Diagram
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/abcdefg.png" width="500">
+  <img src="https://github.com/Charnjot333/SQL-DEVELOPER-INTERNSHIP-/issues/1#issue-3171046384" width="500">
 </p>
 
 
