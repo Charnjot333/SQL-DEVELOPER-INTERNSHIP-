@@ -23,7 +23,9 @@ The ER diagram below shows the one-to-many relationship between `Customers` and 
 
 ## 🗃️ ER Diagram
 
-![ER Diagram](https://user-images.githubusercontent.com/1234567890/abcdefg.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/abcdefg.png" width="500">
+</p>
 
 
 ## 🛠️ Tools Used
