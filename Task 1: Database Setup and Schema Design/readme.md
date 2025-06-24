@@ -21,7 +21,7 @@ This is implemented using a **foreign key** in the `Orders` table that reference
 
 The ER diagram below shows the one-to-many relationship between `Customers` and `Orders`.
 
-![image](https://github.com/Charnjot333/SQL-DEVELOPER-INTERNSHIP-/issues/1#issue-3171046384)
+ <img src="https://user-images.githubusercontent.com/1234567890/abcdefg.png" width="500">
 
 ## 🛠️ Tools Used
 
