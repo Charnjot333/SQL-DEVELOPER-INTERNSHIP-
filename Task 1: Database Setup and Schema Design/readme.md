@@ -23,11 +23,7 @@ The ER diagram below shows the one-to-many relationship between `Customers` and 
 
 ## 🗃️ ER Diagram
 
-<p align="center">
-  <img src="https://github.com/Charnjot333/SQL-DEVELOPER-INTERNSHIP-/issues/1#issue-3171046384" width="500">
-</p>
-
-
+![Image](https://github.com/user-attachments/assets/b7175f67-cf88-4f9d-abe5-bffacdd7457a)
 ## 🛠️ Tools Used
 
 - MySQL Workbench
