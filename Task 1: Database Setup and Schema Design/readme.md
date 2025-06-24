@@ -21,7 +21,7 @@ This is implemented using a **foreign key** in the `Orders` table that reference
 
 The ER diagram below shows the one-to-many relationship between `Customers` and `Orders`.
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](task1 er diagram.png)
 
 ## 🛠️ Tools Used
 
