@@ -129,7 +129,6 @@ RIGHT JOIN orders o ON c.customer_id = o.customer_id;
 ## 📁 Files Included
 - `TASK 5.sql`: SQL file with all table creation, data insertion, and join queries.
 
-## 🔗 Submission
-- [Google Form Submission Link](https://forms.gle/8Gm83s53KbyXs3Ne9)
+
 
 
