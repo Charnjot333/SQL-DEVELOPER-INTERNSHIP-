@@ -24,5 +24,3 @@ Practice SQL subqueries, joins, and aggregate functions.
 ## How to Run
 Use MySQL Workbench → Open `practice` DB → Run `Task 6.sql`
 
-## Submission
-Push to GitHub and submit your repo link.
