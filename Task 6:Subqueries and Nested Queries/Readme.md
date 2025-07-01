@@ -34,3 +34,10 @@ The goal of this task is to strengthen SQL skills by using **subqueries** (scala
 ### `departments`:
 ```sql
 INSERT INTO departments VALUES (1, 'HR'), (2, 'IT'), (3, 'Sales');
+-- Employees
+INSERT INTO employees VALUES 
+(1, 'Alice', 1, 50000),
+(2, 'Bob', 2, 70000),
+(3, 'Charlie', 2, 60000),
+(4, 'David', 3, 55000),
+(5, 'Eva', 1, 45000);
