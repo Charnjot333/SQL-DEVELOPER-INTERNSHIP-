@@ -28,7 +28,7 @@ To track books, authors, members, and loan activity in a library system using SQ
 | `README.md` | Project documentation |
 
 ## ER Diagram 
-![Image][https://github.com/Charnjot333/SQL-DEVELOPER-INTERNSHIP-/issues/2#issue-3252259083]
+![Image](https://github.com/Charnjot333/SQL-DEVELOPER-INTERNSHIP-/blob/main/Project/ER%20Diagram.png)
 
 
 ## 🛠 Tools
