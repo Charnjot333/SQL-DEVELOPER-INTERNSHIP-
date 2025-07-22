@@ -27,6 +27,10 @@ To track books, authors, members, and loan activity in a library system using SQ
 | `reports.sql` | Aggregated report queries |
 | `README.md` | Project documentation |
 
+## ER Diagram 
+(https://github.com/Charnjot333/SQL-DEVELOPER-INTERNSHIP-/issues/2#issue-3252259083)
+
+
 
 ## 🛠 Tools
 - PostgreSQL
